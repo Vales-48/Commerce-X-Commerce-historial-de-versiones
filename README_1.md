@@ -63,7 +63,7 @@ El microservicio de Seguridad emite y valida JWT (login/registro), pero por alca
 
 ## Cómo ejecutar el proyecto
 
-### Opción 1: Docker Compose (recomendado, levanta todo de una vez)
+### Opción 1: Docker Compose
 
 ```bash
 docker-compose up --build
