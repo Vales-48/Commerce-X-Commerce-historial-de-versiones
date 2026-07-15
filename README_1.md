@@ -285,5 +285,3 @@ Cada microservicio ya tiene su `Dockerfile` listo para desplegarse en Railway, R
 - Envíos: además `PEDIDOS_SERVICE_URL`
 - Reseñas: además `PRODUCTOS_SERVICE_URL`, `CLIENTES_SERVICE_URL`
 - Gateway: `SEGURIDAD_URL`, `PRODUCTOS_URL`, `CARGAMASIVA_URL`, `CLIENTES_URL`, `PEDIDOS_URL`, `CARRITO_URL`, `ENVIOS_URL`, `NOTIFICACIONES_URL`, `CATEGORIAS_URL`, `RESENAS_URL`
-
-> Pendiente: reemplazar esta sección con las URLs reales una vez desplegado cada servicio.
