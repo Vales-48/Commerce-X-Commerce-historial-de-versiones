@@ -102,7 +102,6 @@ docker-compose down -v
 5. Envíos (depende de Pedidos)
 6. Gateway (al final, ya que enruta hacia todos los anteriores)
 
-Si solo van a defender/probar un microservicio puntual, no es necesario seguir este orden — solo hace falta que el/los microservicio(s) del que depende (según "Quién le habla a quién" más arriba) también estén corriendo si se va a probar esa funcionalidad puntual.
 
 ### Ejecutar los tests
 
